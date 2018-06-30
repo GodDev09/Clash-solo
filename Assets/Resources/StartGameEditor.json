@@ -1,0 +1,20 @@
+{
+  "TimeScale": 4, 
+  "DollarStart": 50000,
+  "BitCoinStart": 10,
+
+  "TimeInterAds": 300, 
+
+  "InMin": 10000,
+  "InMax": 50000,
+  "Ipc": 0.1,
+  
+  "HP_etx": 200,
+  "TC_tax": 0.8, 
+  "TC_wx": 0.7, 
+  "SC_bx": 0.1,
+  "SC_ax": 0.8, 
+  "SC_ox": 0.1,
+  
+  "Dtime": 720
+}
